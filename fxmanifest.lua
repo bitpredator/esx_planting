@@ -1,8 +1,10 @@
-resource_manifest_version "44febabe-d386-4d18-afbe-5e627f4af937"
+fx_version 'adamant'
+game 'gta5'
+description 'Refactor by bitpredator'
+lua54 'yes'
+version '0.0.4'
+shared_script '@es_extended/imports.lua'
 
-Discription "Receptury by mWojtasik (Oesis.pl)"
-
-Version "2.0"
 
 server_scripts {
   '@es_extended/locale.lua',
